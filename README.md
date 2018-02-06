@@ -11,7 +11,7 @@
 | `v1.0.0`|2017/03/01 |Initial creation  |arpitnarechania@gmail.com|
 | `v1.0.3`|2017/03/01 |Update Readme     |arpitnarechania@gmail.com|
 | `v1.1.1`|2017/12/31 |Update Readme     |arpitnarechania@gmail.com|
-| `v2.0.0`|2018/01/02 |Visualize organic chemical structures based on IUPAC conventions |wying102@vt.edu;      shivramp@hotmail.com|
+| `v2.0.0`|2018/01/02 |Visualize organic chemical structures based on IUPAC conventions |wying102@vt.edu      shivramp@hotmail.com|
 			
 				
 				
@@ -211,13 +211,13 @@ arpitnarechania@gmail.com
 | `Alkynes`         |
 | `Alkyl halides`   |
 | `Alcohols`        |
-| `Ethers'`         |
+| `Ethers`          |
 | `Aldehydes`       |
-| `Ketones'`        |
+| `Ketones`         |
 | `Carboxylic Acids`|
 | `Esters`          |
 | `Amines`          |
-| `Amidess`         |
+| `Amides`          |
 	
 
 ## Limitations for IUPAC name search:
@@ -235,13 +235,13 @@ arpitnarechania@gmail.com
 | `Alkynes`         |`ethyne', `2-methyl-4-ethyloctyne` |
 | `Alkyl halides`   |`3-fluoro-4-ethyloctyne`           |
 | `Alcohols`        |`ethanol`                          |
-| `Ethers'`         |`ethyl methyl ether`               |
+| `Ethers`          |`ethyl methyl ether`               |
 | `Aldehydes`       |`3-methylbutanal`                  |
-| `Ketones'`        |`propanone`                        |
+| `Ketones`         |`propanone`                        |
 | `Carboxylic Acids`|`ethanoic acid`                    |
 | `Esters`          |`methyl propanoate`                |
 | `Amines`          |`ethyl methyl amine`               |
-| `Amidess`         |`butamide`                         |
+| `Amides`          |`butamide`                         |
 
 ## Author for Organic Compounds
 * Ying Wang <wying102@vt.edu>
