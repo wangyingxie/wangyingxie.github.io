@@ -11,7 +11,7 @@
 | `v1.0.0`|2017/03/01 |Initial creation  |arpitnarechania@gmail.com|
 | `v1.0.3`|2017/03/01 |Update Readme     |arpitnarechania@gmail.com|
 | `v1.1.1`|2017/12/31 |Update Readme     |arpitnarechania@gmail.com|
-| `v2.0.0`|2018/01/02 |Visualize organic chemical structures based on IUPAC conventions |wying102@vt.edu; \n shivramp@hotmail.com|
+| `v2.0.0`|2018/01/02 |Visualize organic chemical structures based on IUPAC conventions |wying102@vt.edu;      shivramp@hotmail.com|
 			
 				
 				
@@ -196,7 +196,7 @@ arpitnarechania@gmail.com
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-## New Feature in Organic Compounds (added on Jan-2018)
+## New Feature of Organic Compounds (added on Jan-2018)
 
 * The new module IUPACname.js adds functionality of searching organic compound using IUPAC names.  
 * This library allows you to add the side groups including methyl, ethyl and propyl on the main chain.
