@@ -197,10 +197,10 @@ arpitnarechania@gmail.com
 ---------------------------------------------------------------------------------------------------------------------------------------
 ## New Feature in Organic Compounds (added on Jan-2018)
 
-* The new module IUPACname.js adds functionality of 
-* searching organic compound using IUPAC names.  
-* Implemented chemical bonding details for following types of 
-* organic compounds:   
+* The new module IUPACname.js adds functionality of searching organic compound using IUPAC names.  
+* Implemented chemical bonding details for following types of organic compounds:  
+| Organic Compounds| 
+| -----------------|
 |	1) `Alkanes`|
 |	2) `Alkenes`|
 |	3) `Alkynes`|
