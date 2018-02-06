@@ -2,7 +2,7 @@
 
 **d3-molecule** is an open-source library for learning Chemical Bonding in an interactive way.
 
-## ![Screenshot](https://github.com/wangyingxie/d3-molecule/tree/master/assets/screenshot2.png)
+## ![Screenshot](https://github.com/wangyingxie/wangyingxie.github.io/screenshot2.png)
 
 ## Version History
              				
