@@ -199,6 +199,7 @@ arpitnarechania@gmail.com
 
 * The new module IUPACname.js adds functionality of searching organic compound using IUPAC names.  
 * Implemented chemical bonding details for following types of organic compounds:  
+
 | Organic Compounds | 
 | ------------------|
 | `Alkanes`         |
