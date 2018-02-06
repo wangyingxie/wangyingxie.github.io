@@ -5,15 +5,16 @@
 ## ![Screenshot](https://raw.githubusercontent.com/arpitnarechania/d3-molecule/master/assets/screenshot.png)
 
 ## Version History
-*  Version   Date        Brief Description                     Author(s)                  Reason
-*   -----   -------      -----------------                     --------                   -------
-*   v1.0.0  2017/03/1   Initial creation                  arpitnarechania@gmail.com
-*   v1.0.3  2017/03/1   Update Readme                     arpitnarechania@gmail.com
-*   v1.1.1  2017/12/31  Update Readme                     arpitnarechania@gmail.com
-*   v2.0.0  2018/01/24  Visualize organic chemical        wying102@vt.edu  
-                        structures based on IUPAC         shivramp@hotmail.com 
-                        conventions.
-                
+             				
+| Version | Date      |Brief Description | Author(s)               | 
+| --------|-----------|------------------|-------------------------|
+| `v1.0.0`|2017/03/01 |Initial creation  |arpitnarechania@gmail.com|
+| `v1.0.3`|2017/03/01 |Update Readme     |arpitnarechania@gmail.com|
+| `v1.1.1`|2017/12/31 |Update Readme     |arpitnarechania@gmail.com|
+| `v2.0.0`|2018/01/02 |Visualize organic chemical structures based on IUPAC conventions |wying102@vt.edu;shivramp@hotmail.com|
+			
+				
+				
 ## Usage and Features
 * Clicking the atom selects it
 * Clicking on 2 atoms, joins them by a bond
@@ -198,7 +199,10 @@ arpitnarechania@gmail.com
 ## New Feature in Organic Compounds (added on Jan-2018)
 
 * The new module IUPACname.js adds functionality of searching organic compound using IUPAC names.  
-* Implemented chemical bonding details for following types of organic compounds:  
+* This library allows you to add the side groups including methyl, ethyl and propyl on the main chain.
+* Note that the library doesn't cover all names for organic compounds.
+
+## Types of organic compounds:  
 
 | Organic Compounds | 
 | ------------------|
@@ -215,29 +219,29 @@ arpitnarechania@gmail.com
 | `Amines`          |
 | `Amidess`         |
 	
-* This library allows you to add the side groups including methyl, ethyl and propyl on the main chain.
-* Note that the library doesn't cover all names for organic compounds.
-* Use of this software is subjected to licensing as per MIT License guidelines. (https://opensource.org/licenses/MIT.)
 
-* Limitations for IUPAC name search are:
-* - The maximum number of carbon is 12.
-* - The double bond, triple bond, -OH, -C=O- are at the end of the main chain. 
-* - The amide is always primary amide. 
-* - More diverse functionality will be updated.
+## Limitations for IUPAC name search:
+* The maximum number of carbon is 12.
+* The double bond, triple bond, -OH, -C=O- are at the end of the main chain. 
+* The amide is always primary amide. 
+* More diverse functionality will be updated.
 
 ## Examples for using organic compounds
-*	1) 'methane', '2-methyl-4-ethyloctane'
-*	2) 'ethene', '2-methyl-4-ethyloctene'
-*	3) 'ethyne', '2-methyl-4-ethyloctyne'
-*	4) '3-fluoro-4-ethyloctyne'
-*	5) 'ethanol'
-*	6) 'ethyl methyl ether'
-*	7) '3-methylbutanal'
-*	8) 'propanone' (acetone)
-*	9) 'ethanoic acid'
-*	10) 'methyl propanoate'
-*	11) 'ethyl methyl amine'
-*	12) 'butamide'
+
+| Organic Compounds | Example                           |
+| ------------------|-----------------------------------|
+| `Alkanes`         |`methane`, `2-methyl-4-ethyloctane`|
+| `Alkenes`         |`ethene', `2-methyl-4-ethyloctene` |
+| `Alkynes`         |`ethyne', `2-methyl-4-ethyloctyne` |
+| `Alkyl halides`   |`3-fluoro-4-ethyloctyne`           |
+| `Alcohols`        |`ethanol`                          |
+| `Ethers'`         |`ethyl methyl ether`               |
+| `Aldehydes`       |`3-methylbutanal`                  |
+| `Ketones'`        |`propanone`                        |
+| `Carboxylic Acids`|`ethanoic acid`                    |
+| `Esters`          |`methyl propanoate`                |
+| `Amines`          |`ethyl methyl amine`               |
+| `Amidess`         |`butamide`                         |
 
 ## Author for Organic Compounds
 * Ying Wang <wying102@vt.edu>
