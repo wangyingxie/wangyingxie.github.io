@@ -11,7 +11,7 @@
 | `v1.0.0`|2017/03/01 |Initial creation  |arpitnarechania@gmail.com|
 | `v1.0.3`|2017/03/01 |Update Readme     |arpitnarechania@gmail.com|
 | `v1.1.1`|2017/12/31 |Update Readme     |arpitnarechania@gmail.com|
-| `v2.0.0`|2018/01/02 |Visualize organic chemical structures based on IUPAC conventions |wying102@vt.edu;shivramp@hotmail.com|
+| `v2.0.0`|2018/01/02 |Visualize organic chemical structures based on IUPAC conventions |wying102@vt.edu; \n shivramp@hotmail.com|
 			
 				
 				
@@ -52,7 +52,7 @@ To use this library then, simply include d3.js, jquery, Molecule.js and Molecule
 ``` html
 <script src="/path/to/jquery.min.js"></script>
 <script src="/path/to/d3.min.js"></script>
-<link src="/path/to/dist/css/Molecule.css"></script>
+<link href="/path/to/dist/css/Molecule.css">
 <script src="/path/to/dist/js/Molecule.js"></script>
 ```
 
