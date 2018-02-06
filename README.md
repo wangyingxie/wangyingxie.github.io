@@ -199,20 +199,20 @@ arpitnarechania@gmail.com
 
 * The new module IUPACname.js adds functionality of searching organic compound using IUPAC names.  
 * Implemented chemical bonding details for following types of organic compounds:  
-| Organic Compounds| 
-| -----------------|
-|	1) `Alkanes`|
-|	2) `Alkenes`|
-|	3) `Alkynes`|
-|	4) `Alkyl halides`|
-|	5) `Alcohols`|
-|	6) `Ethers'` |
-|	7) `Aldehydes`|
-|	8) `Ketones'`|
-|	9) `Carboxylic Acids`|
-|	10) `Esters`|
-|	11) `Amines`|
-|	12) `Amidess`|
+| Organic Compounds | 
+| ------------------|
+| `Alkanes`         |
+| `Alkenes`         |
+| `Alkynes`         |
+| `Alkyl halides`   |
+| `Alcohols`        |
+| `Ethers'`         |
+| `Aldehydes`       |
+| `Ketones'`        |
+| `Carboxylic Acids`|
+| `Esters`          |
+| `Amines`          |
+| `Amidess`         |
 	
 * This library allows you to add the side groups including methyl, ethyl and propyl on the main chain.
 * Note that the library doesn't cover all names for organic compounds.
