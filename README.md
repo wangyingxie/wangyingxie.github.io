@@ -11,7 +11,7 @@
 *   v1.0.3  2017/03/1   Update Readme                     arpitnarechania@gmail.com
 *   v1.1.1  2017/12/31  Update Readme                     arpitnarechania@gmail.com
 *   v2.0.0  2018/01/24  Visualize organic chemical        wying102@vt.edu  
-*                       structures based on IUPAC         shivramp@hotmail.com 
+                        structures based on IUPAC         shivramp@hotmail.com 
                         conventions.
                 
 ## Usage and Features
@@ -201,18 +201,18 @@ arpitnarechania@gmail.com
 * searching organic compound using IUPAC names.  
 * Implemented chemical bonding details for following types of 
 * organic compounds:   
-*	1) 'Alkanes'
-*	2) 'Alkenes'
-*	3) 'Alkynes'
-*	4) 'Alkyl halides'
-*	5) 'Alcohols'
-*	6) 'Ethers', 
-*	7) 'Aldehydes'
-*	8) 'Ketones',
-*	9) 'Carboxylic Acids'
-*	10) 'Esters'
-*	11) 'Amines'
-*	12) 'Amides' 
+|	1) `Alkanes`|
+|	2) `Alkenes`|
+|	3) `Alkynes`|
+|	4) `Alkyl halides`|
+|	5) `Alcohols`|
+|	6) `Ethers'` |
+|	7) `Aldehydes`|
+|	8) `Ketones'`|
+|	9) `Carboxylic Acids`|
+|	10) `Esters`|
+|	11) `Amines`|
+|	12) `Amidess`|
 	
 * This library allows you to add the side groups including methyl, ethyl and propyl on the main chain.
 * Note that the library doesn't cover all names for organic compounds.
@@ -237,6 +237,7 @@ arpitnarechania@gmail.com
 *	10) 'methyl propanoate'
 *	11) 'ethyl methyl amine'
 *	12) 'butamide'
+
 ## Author for Organic Compounds
 * Ying Wang <wying102@vt.edu>
 * Shivaram Sitaram <shivramp@hotmail.com>
